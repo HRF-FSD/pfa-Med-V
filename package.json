@@ -1,0 +1,17 @@
+{
+  "name": "Hospital Budget Management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "HARAF AYMEN",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.3"
+  }
+}

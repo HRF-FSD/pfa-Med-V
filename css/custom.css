@@ -1,0 +1,25 @@
+#topMenuBtns {
+    position: absolute;
+    right: 20px;
+    
+}
+
+.topMenuBtn {
+    border: none;
+    outline: none;
+    background: transparent;
+    margin: 0 3px;
+    color: #4e73df;
+    -webkit-app-region: no-drag;
+}
+
+#topMenu {
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+}
+
+#image_login {
+    width: 500px;
+    height: 360px;
+}
+
